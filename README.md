@@ -36,7 +36,6 @@ This project applies **deep learning and ensemble techniques** for cervical canc
 - **MSE (Test):** 0.049  
 
 These results demonstrate strong performance of the ensemble, with minimal overfitting due to feature extraction and normalization strategies.
-https://github.com/MrKatoch03/Cervical_Cancer-/blob/main/README.md
 ---
 
 ## Dataset and Models
