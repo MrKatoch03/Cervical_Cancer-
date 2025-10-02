@@ -47,8 +47,7 @@ This project applies **deep learning and ensemble techniques** for cervical canc
 
 ## Limitations and Notes
 - Pretrained weights (`.pth` files) are required for inference and need to be loaded manually.  
-- Current implementation uses Random Forest as the ensemble layer; additional ensembles (e.g., XGBoost, Stacking) could improve generalization.  
-- Dataset paths (`D:/capstone/Train Dataset` and `D:/capstone/Test Dataset`) should be updated for different environments.  
+- Current implementation uses Random Forest as the ensemble layer; additional ensembles (e.g., XGBoost, Stacking) could improve generalization.    
 - Some PyTorch methods raise **deprecation warnings** (e.g., `pretrained` → use `weights` argument).  
 - Future work: Online training pipelines, SHAP/LIME explainability, and real-world clinical validation.  
 
