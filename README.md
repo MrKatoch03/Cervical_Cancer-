@@ -35,7 +35,7 @@ This project applies **deep learning and ensemble techniques** for cervical canc
 - **Precision (Test):** 0.9783  
 - **MSE (Test):** 0.049  
 
-These results demonstrate strong performance of the ensemble, with minimal overfitting due to feature extraction and normalization strategies.
+## These results demonstrate strong performance of the ensemble, with minimal overfitting due to feature extraction and normalization strategies.
 ---
 
 ## Dataset and Models
